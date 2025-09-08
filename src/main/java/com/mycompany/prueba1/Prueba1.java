@@ -14,7 +14,7 @@ public class Prueba1 {
         System.out.println("Hello World!");
         
         
-        String mensaje = "Este e sun mensaje";
+        String mensaje = "Este es un mensaje";
         System.out.println(mensaje);
         
     }
