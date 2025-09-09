@@ -31,16 +31,12 @@ public class Prueba1 {
     
     Alumno alumno = new Alumno(6, 3, 5, "Jonathan", "Fuentealba", (byte)35, true, "Aleman");
     alumno.saludar();
-    
-    
-        
+       
     }
     
     //instanciar o invocar
     //Usuario user1 = new Usuario();
    
-    
-            
-        
+         
             
   }

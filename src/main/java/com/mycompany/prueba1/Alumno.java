@@ -57,7 +57,7 @@ public class Alumno extends Usuario {
     
     @Override
     public String saludar2() {
-        return "Mi nombre es " + getNombre() + " y sou alumno. Y tengo la nota 1 "+ nota1;
+        return "Mi nombre es " + getNombre() + " y soy alumno. Y tengo la nota: "+ nota1;
     }
     
   
